@@ -1,0 +1,11 @@
+### 
+GET http://127.0.0.1:3000/joyas?limits=3&page=1&order_by=stock_ASC
+
+Content-Type: application/json
+
+### 
+GET http://127.0.0.1:3000/joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata
+
+Content-Type: application/json
+
+### 
